@@ -1,10 +1,9 @@
 {
-    "id": "f617bab5-f719-495e-b482-dd0ee297ae87",
-    "authors": [
-        " - Made with AMP Config Generator"
-    ],
-    "origin": "https://github.com/ - Made with AMP Config Generator/AMPTemplates.git",
-    "url": "https://github.com/ - Made with AMP Config Generator/AMPTemplates",
-    "imagefile": "",
-    "prefix": " - Made with AMP Config Generator"
+	"id": "b3d426a1-3e91-4647-ace2-80b8d5e92117",
+	"authors": ["MixMakMax"],
+	"origin": "https://github.com/Polylemongon/AMPTemplates-Mix.git",
+	"url": "https://github.com/Polylemongon/AMPTemplates-Mix",
+	"imagefile": "",
+	"prefix": " ",
+	"repotype": "AppTemplates"
 }
