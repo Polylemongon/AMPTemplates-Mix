@@ -1,9 +1,9 @@
 {
-	"id": "ec280171-c67b-4cf8-923f-dc27fea91ee1",
-	"authors": ["CubeCoders Limited", "AMP Community"],
-	"origin": "https://github.com/CubeCoders/AMPTemplates.git",
-	"url": "https://github.com/CubeCoders/AMPTemplates",
+	"id": "b3d426a1-3e91-4647-ace2-80b8d5e92117",
+	"authors": ["MixMakMax"],
+	"origin": "https://github.com/Polylemongon/AMPTemplates-Mix.git",
+	"url": "https://github.com/Polylemongon/AMPTemplates-Mix",
 	"imagefile": "",
-	"prefix": "",
+	"prefix": " ",
 	"repotype": "AppTemplates"
 }
