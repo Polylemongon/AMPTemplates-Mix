@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "",
+        "UpdateSourcePlatform": "Linux",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "215360",
+        "UpdateSourceArgs": "1250",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Linux",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
